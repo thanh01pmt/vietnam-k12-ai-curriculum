@@ -1,8 +1,8 @@
 # Vietnam National K-12 AI Curriculum & GDPT 2018 Agent Skill
 
 <p align="center">
-  <a href="README.md"><strong>English</strong></a> ·
-  <a href="README.vi.md">Tiếng Việt</a>
+  <a href="README.en.md"><strong>English</strong></a> ·
+  <a href="README.md">Tiếng Việt</a>
 </p>
 
 <p align="center">
