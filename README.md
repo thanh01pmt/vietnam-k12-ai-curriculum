@@ -1,8 +1,8 @@
 # Khung Chương trình Trí tuệ Nhân tạo K-12 Việt Nam & Kỹ năng Tác tử GDPT 2018
 
 <p align="center">
-  <a href="README.md">English</a> ·
-  <a href="README.vi.md"><strong>Tiếng Việt</strong></a>
+  <a href="README.en.md">English</a> ·
+  <a href="README.md"><strong>Tiếng Việt</strong></a>
 </p>
 
 <p align="center">
